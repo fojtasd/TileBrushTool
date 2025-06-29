@@ -21,11 +21,11 @@ A powerful keyboard-driven tile placement tool for Blender with preview and rota
 
 ## Installation
 
-1. Download both `tile_brush_tool.py` and `TileBrushObjects.blend`
-2. In Blender, go to Edit > Preferences > Add-ons
-3. Click "Install" and select the `tile_brush_tool.py` file
-4. Enable the addon by checking the box next to "Object: Tile Brush Tool"
-5. Ensure `TileBrushObjects.blend` is in the same directory as the script
+1. Download the `tile_brush_tool` folder and `TileBrushObjects.blend`
+2. Zip the entire `tile_brush_tool` directory
+3. In Blender, go to Edit > Preferences > Add-ons
+4. Click "Install" and choose the zipped addon
+5. Enable the addon and ensure `TileBrushObjects.blend` sits inside the addon folder
 
 ## Controls
 
